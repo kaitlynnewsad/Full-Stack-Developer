@@ -11,3 +11,5 @@ Folder called CSS Essential Training includes certificate and PDF of what I lear
 ## JavaScript Essential Training
 Completed this part of the course on June 23, 2022. Learned about the essentials needed to code in JavaScript.
 Folder called CSS Essential Training includes certificate, PDF of what I learned, and examples of code that I did in this training.
+
+## React.js Essential Training
