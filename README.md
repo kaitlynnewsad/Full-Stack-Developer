@@ -9,4 +9,5 @@ Completed this part of the course on May 24, 2022. Learned about the essentials 
 Folder called CSS Essential Training includes certificate and PDF of what I learned.
 
 ## JavaScript Essential Training
-Currently starting this course
+Completed this part of the course on June 23, 2022. Learned about the essentials needed to code in JavaScript.
+Folder called CSS Essential Training includes certificate, PDF of what I learned, and examples of code that I did in this training.
